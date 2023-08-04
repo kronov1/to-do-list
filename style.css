@@ -18,7 +18,7 @@ body {
     margin: 100px auto 0;
     width: 470px;
 
-    background-image: linear-gradient(to bottom, #F15156, #FFCF99);
+    background-image: linear-gradient(to bottom, #3b3b3b, #FFCF99);
     
     display: flex;
     flex-direction: column;
